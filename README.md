@@ -17,6 +17,6 @@
 
 	go run cli_ipfs.go upfile "Filename"
 
-	go run cli_ipfs.go	downfile Qm*************
+	go run cli_ipfs.go downfile Qm*************
   
   
